@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ProjetoMaster.master.cs" Inherits="Projeto3.ProjetoMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- CABEÇALHO -->
+        <header class="cabecalho">
+            <!-- LOGOMARCA -->
+            <div class="logomarca">
+            </div>
+            <!-- BARRA DE TITULO -->
+            <div class="barra-titulo">
+            </div>
+            <!-- BARRA DE MENU -->
+            <div class="barra-menu">
+                <asp:HyperLink ID="Home"  NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+                <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+            </div>
+        </header>
+
+        <!-- CONTEUDO -->
+        <div class="content-wrapper">
+            <asp:ContentPlaceHolder ID="Content" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- RODAPÉ -->
+        <footer>
+
+        </footer>
+    </form>
+</body>
+</html>

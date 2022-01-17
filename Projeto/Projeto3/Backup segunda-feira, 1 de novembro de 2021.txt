@@ -1,0 +1,4 @@
+Data: 28/10/2021 14:37:13
+Mensagem: O servidor SMTP requer uma conexão segura ou o cliente não foi autenticado. A resposta do servidor foi: 5.7.0 Authentication Required. Learn more at
+Source: System
+--------------------------

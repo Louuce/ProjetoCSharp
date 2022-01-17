@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Projeto.master.cs" Inherits="Projeto3.Projeto" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- FOLHA DE ESTILO GENÉRICA -->
+    <link href="StyleSheet.css" rel="stylesheet" />
+    <!-- FOLHA DE ESTILO DO PROJETO EM QUESTÃO -->
+    <link href="Projeto.css" rel="stylesheet" />
+    <!-- REF: http://flexslider.woothemes.com/video.html -->
+    <!-- ARQUIVOS JAVASCRIPT E CSS PARA EXIBIR SLIDES -->
+    <!-- TEM QUE SER NESSA ORDEM -->
+    <link href="Js/flexslider.css" rel="stylesheet" />
+    <script src="Js/jquery-1.7.2.min.js"></script>
+    <script src="Js/flexslider.min.js"></script>
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <!-- CABEÇALHO -->
+
+        <header class="cabecalho content-wrapper">
+            <!-- logomarca -->
+            <div class="logomarca">
+                <img src="../Images/marca1.png" />
+            </div>
+            <!-- BARRA DE TÍTULO -->
+            <div class="barra-titulo">
+                <span class="font-12">FATEC.Am ADS-Analise e Desenvolvimento de Sistemas - Turma 2021</span>
+            </div>
+            <!-- BARRA DO MENU -->
+            <div class="barra-menu">
+                <asp:HyperLink ID="Home" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+                <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+                <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+
+                <asp:HyperLink ID="Vestibular" NavigateUrl="~/Vestibular.aspx" runat="server">Vestibular 2022</asp:HyperLink>
+
+                 <asp:HyperLink ID="Inscritos" Visible="false" NavigateUrl="~/Admin/Inscritos.aspx" runat="server">Lista de Inscritos</asp:HyperLink>
+
+                <asp:HyperLink ID="ExibirExcecoes" Visible="false" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exceções</asp:HyperLink>
+
+                <asp:HyperLink ID="Login" Visible="true" NavigateUrl="~/Login.aspx" runat="server">Entrar</asp:HyperLink>
+
+                <asp:HyperLink ID="Usuarios" Visible="false" NavigateUrl="~/Admin/Usuarios.aspx" runat="server">Usuários</asp:HyperLink>
+
+                <asp:HyperLink ID="Logout" Visible="false" NavigateUrl="~/Logout.aspx" runat="server">Sair</asp:HyperLink>
+            </div>
+        </header>
+
+        <!-- ÁREA DE CONTEÚDO -->
+        <div class="content-wrapper conteudo">
+            <asp:ContentPlaceHolder ID="Content" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- RODAPÉ -->
+        <footer class="rodape">
+            <div class="content-wrapper padding-lr">
+                <div class="row">
+                    <div class="col-4">
+                        <p class="font-12">Curso de Analise e Desenvolvimento de Sistemas</p>
+                        <p class="font-10">FATEC- Faculdade de Tecnologia de Americana</p>
+                    </div>
+                    <div class="col-1">
+                        <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+                        <br />
+                        <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+                        <br />
+                    </div>
+                    <div class="col-5 margin-left-10">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d332831.41782746196!2d-47.56117567010752!3d-22.828299569839587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c89bea5cdb94f9%3A0xffb368bd91ea12ae!2sFatec%20Americana%20-%20Faculdade%20de%20Tecnologia%20de%20Americana%20Ministro%20Ralph%20Biasi!5e0!3m2!1spt-BR!2sbr!4v1637863776562!5m2!1spt-BR!2sbr" width="400" height="240" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                   </div>
+            </div>
+        </div>
+        </footer>
+    </form>
+</body>
+
+</html>

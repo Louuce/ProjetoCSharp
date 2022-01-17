@@ -1,0 +1,186 @@
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.dll.config
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.pdb
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.rsp
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.rsp
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\AppDatabase.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\MySql.Data.dll
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\AppDatabase.pdb
+C:\Users\Dell\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2021-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\AppDatabase.xml
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\Projeto3.dll.config
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\Projeto3.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\Projeto3.pdb
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csc.rsp
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\csi.rsp
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Globalization.Calendars.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Net.Http.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Net.Sockets.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\AppDatabase.pdb
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\AppDatabase.xml
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+E:\Cursos\ADS - Fatec\4º Semestre\Linguagem de Programação 2 - Csharp e HTML\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+D:\epifa\Downloads\Projeto3\Projeto3\bin\Projeto3.dll.config
+D:\epifa\Downloads\Projeto3\Projeto3\bin\Projeto3.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\Projeto3.pdb
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csc.exe
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csc.rsp
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csi.exe
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\csi.rsp
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Globalization.Calendars.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Net.Http.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Net.Sockets.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\vbc.exe
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+D:\epifa\Downloads\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+D:\epifa\Downloads\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\epifa\Downloads\Projeto3\Projeto3\bin\AppDatabase.pdb
+D:\epifa\Downloads\Projeto3\Projeto3\bin\AppDatabase.xml
+D:\epifa\Downloads\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\epifa\Downloads\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+D:\epifa\Downloads\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+D:\epifa\Downloads\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+D:\epifa\Downloads\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+D:\epifa\Downloads\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
